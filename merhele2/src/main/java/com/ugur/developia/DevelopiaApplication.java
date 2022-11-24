@@ -1,0 +1,13 @@
+package com.ugur.developia;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DevelopiaApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DevelopiaApplication.class, args);
+    }
+
+}
